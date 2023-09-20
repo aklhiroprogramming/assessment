@@ -1,0 +1,30 @@
+body{
+    font-family: 'M PLUS Rounded 1c';
+    background-color:#87cefa;
+    color: rgb(13, 36, 208);
+    width: 500px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+button:hover{
+    background-color: rgb(0, 123, 255);
+}
+
+button{
+    font-family: 'M PLUS Rounded 1c';
+    padding: 4px 45px;
+    background-color:#e0ffff;
+    border-style: none;
+    color:rgb(5, 8, 96) ;
+
+}
+
+
